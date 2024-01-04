@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #C5A9A9;
+}
+img{
+    margin-left: 450px;
+}
+a{
+    color: white;
+    margin-left: 250px;
+    text-decoration: none;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 200px;
+    
+}
+img{
+    margin-top: -180px;
+  
+}
+.bin{
+    margin-top: 200px;
+    background-color: rgb(113, 185, 185);
+}
+a1{
+    font-size: 10px;
+}
+a:hover{
+font-size: 30px;
+}
