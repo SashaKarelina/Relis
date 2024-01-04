@@ -1,0 +1,28 @@
+ <html>
+       <head>
+           <link rel="stylesheet" href="style.css1">
+           </head>
+       <body>
+           <header>
+               <h1>Laptops from</h1>
+               <img src="https://s3-alpha-sig.figma.com/img/d9c6/20e4/91d889ee319d3a72730e609798302022?Expires=1702857600&Signature=kyVxBFwm6OEd~D~NL-7DEQOIlqtp0TGu3il3nRSBJbV681CkGfHlWmmObG9xr~2rwJtQbQaNuMhg~UAvE6dbzWD-ehSdcKSHmjd7ramI4Z36tJlfNY3AbzfPIjc2lNtfVX8MN6qM3I5PUdsSDWNh5pFjWby~RqQ9JYlPC-SfwUZcySefZVxHREVAPQPVH0C6EydWZSWhawo9Ayy7HzBE7EBAHuojZsAv2fAbsZ7oDDyWZQSN4spWxm7vEbZA7oPhlzXzK7XGppMk0YBByWgH3Sv4BfxbIcow4YXN6H3NUi61~HNbuGQqwpt19sZ4Hkrt5eMEnb9drnCsZRnkHExz7w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4">
+               <nav>
+                   <a class="a1" href="">Каталог</a>
+                   <a href="">Корзина</a>
+                   <a href="">Про нас</a>
+                   
+                   </nav>
+           </header>
+           <main>
+               
+               <div class="product"><img class="laptop"src="https://content.rozetka.com.ua/goods/images/big/392554668.jpg"> <p>Ноутбук Asus Vivobook 15 X1502ZA-BQ643 далі...</p> <a class="tovar" href="https://comfy.ua/noutbuk-asus-vivobook-15-x1502za-bq643-icelight-silver.html?gad_source=1&gclid=Cj0KCQiAy9msBhD0ARIsANbk0A_pEVlG8W0LAcbyduot1XxTq75eKSGKGsDuWk1BXDGnm-skKq0mMSAaAp0MEALw_wcB">21499 грн</a></div>
+               
+               <div class="products"> <img class="laptop2"src="https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/e/6/e6775ec2a_346411_b.jpg/w_600"> <p>Ноутбук ASUS Vivobook 15 X1500EA-BQ3732</p> <a class="tovar1" href="https://rozetka.com.ua/asus-90nb0ty5-m040v0/p386027181/?gad_source=1&gclid=Cj0KCQiAy9msBhD0ARIsANbk0A_GfLeDWiVgaEUxHAyQXW75JcjB8zIUHULffAUSNB66_epw5P2zZPQaAjHMEALw_wcB">13 999 грн</a>
+               </div>
+
+               <div class="producter"> <img class="laptop3" src="https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/6/1/616d4388d183d7.45532802_1__1.jpg/w_600"> <p>Ноутбук Asus Vivobook 16 X1605ZA-MB316</p> <a class="tovar2" href="https://comfy.ua/noutbuk-asus-vivobook-16-x1605za-mb316-transparent-silver.html">19 499 грн</a></div>
+               
+               <div class="produc"> <img class="laptop4" src="https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/2/5/2585194.jpg/w_600"><p>Ноутбук Asus UX425EA-KI356W Pine Grey</p> <a class="tovar3" href="https://comfy.ua/noutbuk-asus-ux425ea-ki356w-pine-grey.html?gad_source=1&gclid=Cj0KCQiAy9msBhD0ARIsANbk0A-c2pPJfQGkuyynBa0dMZT3GZDoyL9sHrzZG4iHYALxifozzVdfDDMaAlXbEALw_wcB">31 999 грн </a></div>
+               </main>
+           </body>
+   </html>  
