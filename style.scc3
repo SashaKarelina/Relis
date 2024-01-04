@@ -1,0 +1,76 @@
+body {
+    background-color: #80A88E;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 460px;
+}
+a{
+    color: white;
+    margin-left: 250px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.information{
+    width: 464px;
+height: 188px;
+background: lightgreen;
+margin-top: 100px;
+margin-left: -30px;
+}
+.information1{
+     width: 464px;
+height: 188px;
+background: lightgreen;
+margin-left: 695px;
+margin-top: 100px;
+}
+.text{
+    color: burlywood;
+    font-size: 50px;
+    margin-left: 600px;
+    margin-top: -100px;
+}
+.text1{
+    color: burlywood;
+    font-size: 50px;
+    margin-top: -150px;
+    margin-left: 100px;
+}
+footer p{
+   margin-top: 50px;
+   
+    margin-bottom: -50px;
+}
+footer{
+   
+}
+a:hover{
+    font-size: 30px;
+}
+.fan{
+    margin-left: -10px;
+    height: 190px;
+}
+.number{
+    font-size: 50px;
+    margin-bottom: 100px;
+   
+}
+.phone{
+    margin-bottom: 300px;
+    font-size: 40px;
+}
+.city{
+    margin-left: 350px;
+    font-size: 20px;
+    
+}
+.all{
+    margin-bottom: -200px;
+}
+.plan{
+    font-size: 40px;
+}
